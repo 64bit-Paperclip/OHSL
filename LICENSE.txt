@@ -1,0 +1,115 @@
+OSHL (Open Source Human License) (Version 1.0)
+Copyright (c) [Year] [Copyright Holder]
+
+All intellectual property rights, authorship, and copyright in and to the
+Software are retained by the original copyright holder. This license grants
+a limited right to use the Software and does not constitute a transfer of
+ownership, authorship, or any intellectual property rights.
+
+Permission is hereby granted, free of charge, to any natural person of
+human origin, or legal corporate entity owned and operated by natural
+persons of human origin, obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the Software, including
+the rights to use, copy, modify, merge, publish, distribute, sublicense,
+and/or sell copies of the Software, and to permit others to whom the
+Software is furnished to do so, subject to the following conditions:
+
+1. AI RESTRICTION: No permission is granted, and no permission may be
+   sublicensed or transferred, to use, copy, reproduce, ingest, or process
+   the Software, its associated source code, documentation, or any other
+   files obtained in conjunction with the Software, whether compiled or
+   uncompiled, in whole or in part, for the direct or indirect purpose of:
+     (a) training or fine-tuning any machine learning model, large language
+         model, neural network, deep learning system, generative AI system,
+         foundation model, artificial intelligence system, or any other
+         automated system that learns from or is optimized using data; or
+     (b) testing, evaluating, benchmarking, or validating any such model
+         or system.
+   Any such use constitutes a material breach of this license and immediately
+   terminates all rights granted herein.
+
+2. ATTRIBUTION AND NOTICES:
+     (a) The above copyright notice and this permission notice shall be
+         included in all copies or substantial portions of the Software.
+     (b) All file headers and notices present in the original Software shall
+         be left intact and unmodified in any copy, distribution, or
+         derivative work.
+
+3. AUTHORSHIP AND INTELLECTUAL PROPERTY: You may not claim authorship of
+   the Software or any substantial portion thereof. The original copyright
+   holder retains full authorship, copyright, and all intellectual property
+   rights in and to the Software. This license grants only a limited right
+   to use the Software as described herein, and no ownership, authorship,
+   or intellectual property rights are transferred or implied.
+
+4. NO WARRANTY: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
+   NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+   DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+   OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+   USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+5. BREACH AND DAMAGES: By obtaining, downloading, cloning, copying, using,
+   or otherwise acquiring the Software, or any portion thereof, the recipient
+   expressly agrees to be bound by the terms of this license and
+   acknowledges that any breach of this license is a monetary violation.
+   The breaching party, by accepting this license, agrees in advance to pay
+   monetary damages to the original copyright holder upon any breach, the
+   amount of which shall be determined at the time of enforcement. Any breach
+   of the terms of this license, including but not limited to any violation
+   of Section 1, constitutes harm in and of itself, and the breaching party
+   further agrees that:
+     (a) the act of breach is itself the damage, monetary liability is
+         automatic, and proof of actual harm is not required to seek,
+         establish, or award damages;
+     (b) the original copyright holder is entitled to seek monetary damages,
+         injunctive relief, and any other available legal remedies for
+         each and every instance of breach;
+     (c) the breaching party shall be liable for all legal fees, court
+         costs, and expenses incurred by the original copyright holder
+         in enforcing this license; and
+     (d) each distinct act of violation constitutes a separate and
+         independent breach, giving rise to independent monetary liability.
+     (e) LIABILITY IS PASS-THROUGH: The terms and obligations of this
+         license extend to all parties in the distribution chain. Any party
+         that obtains the Software, directly or indirectly, is bound by and
+         liable under this license to the original copyright holder,
+         regardless of how many intermediaries exist in the chain of
+         distribution. A violation by any party in the chain constitutes
+         a direct breach of this license owed to the original copyright
+         holder, and the original copyright holder may pursue damages
+         directly against any and all violating parties in the chain,
+         independently and simultaneously. Any party that has properly
+         distributed this license in its entirety alongside the Software
+         has fulfilled their obligations under this license and bears no
+         liability for violations committed by any downstream recipient.
+         Liability rests solely with the party or parties that committed
+         the violation.
+     (f) FAILURE TO DISTRIBUTE LICENSE: Any party that distributes the
+         Software, or any product, work, or system incorporating or derived
+         from the Software, without including this license in its entirety,
+         shall be deemed to have committed two separate and independent
+         violations of this license:
+           (i)  a violation for failing to include and distribute this
+                license as required under Section 2; and
+           (ii) a violation for any breach of this license committed by
+                any downstream recipient, as the distributing party's
+                failure to provide this license shall not constitute a
+                legal defense for any downstream party, and liability for
+                such downstream violations shall pass through to and rest
+                with the distributing party.
+         Both violations shall give rise to independent monetary liability
+         under the terms of this section. This clause does not apply to
+         any party that has properly distributed this license in its
+         entirety, as that party has fulfilled their obligations and bears
+         no liability for the actions of downstream recipients.
+
+6. JURISDICTION: The original copyright holder reserves the sole and
+   exclusive right to determine the jurisdiction and venue in which any
+   dispute, claim, or enforcement action arising from or related to this
+   license or any breach thereof shall be brought. The breaching party
+   irrevocably submits to the jurisdiction and venue selected by the
+   original copyright holder and waives any objection to such jurisdiction
+   or venue, including but not limited to any objection on the grounds of
+   inconvenience, improper venue, or lack of jurisdiction.
