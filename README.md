@@ -12,6 +12,15 @@ It is designed to be as close to MIT as possible, permissive, simple, and free, 
 
 ---
 
+## Is OSHL actually "Open Source"?
+The Open Source Initiative (OSI) will inform you that OSHL does not meet their Open Source Definition. They are correct. We note their position and refer them to the response given in the case of Arkell v. Pressdram.
+
+OSHL is free. It is open. It does everything MIT does with one deliberate exception. The OSI's feelings about that exception are, with the greatest possible respect, not a factor we considered during drafting and not one we intend to start considering now.
+
+We did not build OSHL for the OSI. We built it for developers. If the OSI would like to be relevant to developers again, they are welcome to try. We will not be holding our breath.
+
+---
+
 ## Why does this exist?
 
 Open source has always been about humans sharing knowledge with humans. The rise of large language models and AI training pipelines has created a new reality where code published openly and in good faith is scraped, ingested, and used to train commercial AI systems without consent, without compensation, and without credit.
