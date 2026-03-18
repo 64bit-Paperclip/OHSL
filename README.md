@@ -18,7 +18,7 @@ Open source has always been about humans sharing knowledge with humans. The rise
 
 OSHL is a direct response to that. It closes the loopholes that permissive licenses like MIT leave open, and it does so with teeth:
 
-- Violations are **monetary by default**: you agree to pay damages by the act of accepting the license
+- Violations are **monetary by default**: The violator agrees to pay damages by the act of accepting the license
 - Liability is **pass-through**: it follows the violation, not the distribution chain
 - Failing to distribute the license is **its own separate violation**
 - Jurisdiction is **at the sole discretion of the copyright holder**
@@ -41,17 +41,17 @@ The intent of OSHL is to allow almost everything the MIT license does for natura
 ❌ Testing, evaluating, benchmarking, or validating any AI or ML system  
 ❌ Any direct or indirect use toward the above purposes  
 ❌ Claiming authorship or ownership of the software  
-❌ Stripping or omitting this license from distributions  
+❌ Stripping or omitting the license and headers from distributions  
 
 ---
 
 ## What OSHL does not prohibit
 
-OSHL does not prohibit the use of AI tools to search, parse, process, or otherwise interact with the software, its source code, or associated documentation, provided that such use is not for the purpose of training, fine-tuning, testing, evaluating, benchmarking, or validating any AI or machine learning model or system.
+OSHL does not prohibit the use of AI tools to search, parse, process, or otherwise interact with the software, its source code, or associated documentation, provided that such use is not used in training, fine-tuning, testing, evaluating, benchmarking, or validating any AI or machine learning model or system.
 
-In plain terms: it is perfectly legal to use an AI assistant, agent, or tool to read, understand, refactor, or work with this software, as long as the conversations, inputs, and outputs of that interaction are not being used to train or improve an AI model. Using this software in agentic workflows and AI-assisted development is permitted. Feeding it into a training pipeline is not.
+In plain terms: it is perfectly legal to use an AI assistant, agent, or tool to read, understand, refactor, or work with this software, as long as the conversations, inputs, and outputs of that interaction are not being used to train or improve an AI model by any party. Using this software in agentic workflows and AI-assisted development is permitted. Feeding it into a training pipeline is not.
 
-The line is not whether AI is involved. The line is whether the software is being used to make an AI model better.
+The line is not whether AI is involved. The line is whether the interaction is being used to train AI models.
 
 ---
 
@@ -71,7 +71,7 @@ https://github.com/[your-username]/oshl
 
 ## The License
 
-The full license text is available in [`LICENSE.txt`](./LICENSE.md).
+The full license text is available in [`LICENSE.txt`](./LICENSE.txt).
 
 ---
 
