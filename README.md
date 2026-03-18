@@ -55,7 +55,7 @@ The line is not whether AI is involved. The line is whether the interaction is b
 
 ---
 
-###This sounds scary
+## This sounds scary
 
 Good. It should. But only if you intend to use this software to train, test, validate, benchmark, or otherwise improve an AI or machine learning model. If that is not your intent, there is nothing here to fear. OSHL is a permissive license that gets out of your way and lets you build. The aggressive enforcement language, the pre-agreed monetary liability, the pass-through liability, the jurisdiction clause: none of that is aimed at developers, companies, or users acting in good faith. It is aimed squarely at anyone who thinks open source code is a free buffet for AI training pipelines. If that is not you, welcome. If it is, you have been warned.
 
